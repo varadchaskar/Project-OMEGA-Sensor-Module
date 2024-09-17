@@ -4,7 +4,7 @@
  * Description: This code is designed to test the WiFiManager functionality on an ESP8266 board. 
  * It tries to connect to a WiFi network using the WiFiManager library, providing an easy-to-use 
  * interface for managing WiFi connections.
- * Date: September 17, 2024
+ * Date: January 28, 2024
  */
 
 #include <Arduino.h>
