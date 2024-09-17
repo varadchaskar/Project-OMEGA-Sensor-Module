@@ -85,10 +85,5 @@
     <li>Extending support for additional sensors and actuators to further automate the farming process.</li>
 </ul>
 
-<h3>License</h3>
-<p>
-    This project is open-source and licensed under the MIT License. Feel free to modify and expand upon it to suit your needs.
-</p>
-
 </body>
 </html>
