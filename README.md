@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project OMEGA Sensor Module - Hydroponics Based Precision Farming</title>
 </head>
 <body>
 
@@ -39,7 +40,7 @@
 </ul>
 
 <h3>Software and Libraries</h3>
-<p>The project is developed using the <strong>Arduino IDE</strong> and includes the following libraries:</p>
+<p>The project is developed using <strong>PlatformIO</strong> and includes the following libraries:</p>
 <ul>
     <li><strong>WiFiManager:</strong> Simplifies the WiFi connection process, automatically connecting to saved networks or starting an access point for manual setup.</li>
     <li><strong>ESP8266WiFi:</strong> Provides WiFi functionality for the ESP8266 microcontroller to establish network connections.</li>
@@ -83,6 +84,11 @@
     <li>Implementing predictive analytics using historical data from ThingSpeak to optimize growing conditions.</li>
     <li>Extending support for additional sensors and actuators to further automate the farming process.</li>
 </ul>
+
+<h3>License</h3>
+<p>
+    This project is open-source and licensed under the MIT License. Feel free to modify and expand upon it to suit your needs.
+</p>
 
 </body>
 </html>
