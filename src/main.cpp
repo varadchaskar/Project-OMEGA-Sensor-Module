@@ -2,7 +2,7 @@
 #include <WiFiManager.h>        // WiFiManager library for handling WiFi connections easily
 #include <ESP8266WiFi.h>        // ESP8266 WiFi library for network communication
 #include "ThingSpeak.h"         // ThingSpeak library for cloud communication (not used in this test)
-
+#include <DHT.h> 
 
 void setup() {
 
